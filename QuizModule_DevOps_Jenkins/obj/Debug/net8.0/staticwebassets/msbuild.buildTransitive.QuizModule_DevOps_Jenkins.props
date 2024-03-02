@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\QuizModule_DevOps_Jenkins.props" />
+</Project>

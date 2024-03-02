@@ -1,0 +1,6 @@
+@QuizModule_DevOps_Jenkins_HostAddress = http://localhost:5051
+
+GET {{QuizModule_DevOps_Jenkins_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

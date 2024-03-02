@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizModule_DevOps_Jenkins", "QuizModule_DevOps_Jenkins\QuizModule_DevOps_Jenkins.csproj", "{94139F35-D620-4B6E-9139-9B338F910639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizModule_Jenkins_TestProject", "QuizModule_Jenkins_TestProject\QuizModule_Jenkins_TestProject.csproj", "{FC78EF89-B608-49B5-949F-F8C51D7EBB1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94139F35-D620-4B6E-9139-9B338F910639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94139F35-D620-4B6E-9139-9B338F910639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94139F35-D620-4B6E-9139-9B338F910639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94139F35-D620-4B6E-9139-9B338F910639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC78EF89-B608-49B5-949F-F8C51D7EBB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC78EF89-B608-49B5-949F-F8C51D7EBB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC78EF89-B608-49B5-949F-F8C51D7EBB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC78EF89-B608-49B5-949F-F8C51D7EBB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79634FBD-72C5-405C-85CA-3025D09499A9}
+	EndGlobalSection
+EndGlobal

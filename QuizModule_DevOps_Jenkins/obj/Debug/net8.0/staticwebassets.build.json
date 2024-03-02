@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ahy6KX1p4qx0EL6W9cBaNVgsEJERLEodpzHuXBlik6I=",
+  "Source": "QuizModule_DevOps_Jenkins",
+  "BasePath": "_content/QuizModule_DevOps_Jenkins",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

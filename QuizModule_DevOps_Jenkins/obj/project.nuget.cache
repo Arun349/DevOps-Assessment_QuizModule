@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tkhLzePXMge6QKkIf/pe5jxQ9jU/cORyghdAiEPxkVHIZwCSre/U9OBmZhkuzemCjOuaxECwEwtwO0DfRZLf0Q==",
+  "dgSpecHash": "BcHFBGVIockhalO6PQqFIDmEmGrOqZ3KaR/bD8WzTB06WcXvhjhkL/65EI/lTJCsJPNTIhvb7XpZ4O5rWHECdw==",
   "success": true,
   "projectFilePath": "D:\\DevOps(Jenkins) Assessment\\QuizModule_DevOps_Jenkins\\QuizModule_DevOps_Jenkins\\QuizModule_DevOps_Jenkins.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\arun.srinivasan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

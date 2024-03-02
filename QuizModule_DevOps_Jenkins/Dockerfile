@@ -12,7 +12,7 @@ WORKDIR /src
 COPY ["QuizModule_DevOps_Jenkins.csproj", "."]
 RUN dotnet restore "./././QuizModule_DevOps_Jenkins.csproj"
 COPY . .
-WORKDIR "/src/.
+WORKDIR "/src/."
 RUN dotnet build "./QuizModule_DevOps_Jenkins.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 FROM build AS publish
